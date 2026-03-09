@@ -2,7 +2,7 @@
 
 # Frameworks Agents
 
-Frameworks Agents est une plateforme de ressources consacrée aux **frameworks d’agents IA**, à l’**orchestration d’agents** et aux **systèmes d’automatisation intelligente**.
+Frameworks Agents est une plateforme de ressources consacrée aux **frameworks d’agents IA**, à l’**orchestration d’agents** et aux **systèmes d’automatisation intelligente** basées sur les **LLM**.
 
 Site principal :  
 https://frameworksagents.com
